@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Machine Learning, Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [http://github.com/e96031413](http://github.com/e96031413)
+- 👨‍💻 All of my projects are available at [here](https://github.com/e96031413?tab=repositories&type=source)
 
 - 📝 I regulary write articles on [https://yanwei-liu.medium.com/](https://yanwei-liu.medium.com/)
 
