@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yanwei-liu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yanwei-liu" height="30" width="40" /></a>
 <a href="https://kaggle.com/e96031413" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="e96031413" height="30" width="40" /></a>
-<a href="https://medium.com/@yanwei-liu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yanwei-liu" height="30" width="40" /></a>
+<a href="http://yanwei-liu.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yanwei-liu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
