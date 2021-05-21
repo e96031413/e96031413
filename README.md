@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e96031413&label=Profile%20views&color=0e75b6&style=flat" alt="e96031413" /> </p>
 
-- 🔭 I’m currently working on [TACO-Trash-Detection-YOLOv5](https://github.com/e96031413/TACO-Trash-Detection-YOLOv5)
+- 🔭 I’m currently working on Reinforcement-Learning-based-Drone-Simulation-System
 
 - 🌱 I’m currently learning **Deep Learning, Machine Learning, Artificial Intelligence**
 
