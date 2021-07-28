@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e96031413&label=Profile%20views&color=0e75b6&style=flat" alt="e96031413" /> </p>
 
-- 🔭 I’m currently working on Reinforcement-Learning-based-Drone-Simulation-System
+- 🔭 I’m currently working on a PCB Defect detection project.
 
-- 🌱 I’m currently learning **Deep Learning, Machine Learning, Artificial Intelligence**
+- 🌱 I’m currently learning **Domain Adaptation**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/e96031413?tab=repositories&type=source)
 
