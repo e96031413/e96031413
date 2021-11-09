@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a PCB Defect detection project.
 
-- 🌱 I’m currently learning **Domain Adaptation**
+- 🌱 I’m currently learning **Out-of-distribution Detection**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/e96031413?tab=repositories&type=source)
 
@@ -14,6 +14,9 @@
 - 📫 How to reach me **e96031413@gmail.com**
 
 - 📄 Know about my experiences [https://www.cakeresume.com/yanwei-liu](https://www.cakeresume.com/yanwei-liu)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
