@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [https://www.cakeresume.com/yanwei-liu](https://www.cakeresume.com/yanwei-liu)
 
+<h3 align="left">My Latest Article</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [如何在訓練PyTorch時的每個Batch中使各個類別擁有相同數量的樣本？](https://yanwei-liu.medium.com/m-sample-per-class-in-a-batch-pytorch-sampler-cc9eeb5bc630?source=rss-dc182588576c------2)
 - [解決PyTorch DataLoader中PIL TypeError: Cannot handle this data type問題](https://yanwei-liu.medium.com/pytorch-dataloader-pillow-type-error-cannot-handle-this-data-type-f3d81a796059?source=rss-dc182588576c------2)
