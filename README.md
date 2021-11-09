@@ -16,6 +16,11 @@
 - 📄 Know about my experiences [https://www.cakeresume.com/yanwei-liu](https://www.cakeresume.com/yanwei-liu)
 
 <!-- BLOG-POST-LIST:START -->
+- [如何在訓練PyTorch時的每個Batch中使各個類別擁有相同數量的樣本？](https://yanwei-liu.medium.com/m-sample-per-class-in-a-batch-pytorch-sampler-cc9eeb5bc630?source=rss-dc182588576c------2)
+- [解決PyTorch DataLoader中PIL TypeError: Cannot handle this data type問題](https://yanwei-liu.medium.com/pytorch-dataloader-pillow-type-error-cannot-handle-this-data-type-f3d81a796059?source=rss-dc182588576c------2)
+- [如何在PyTorch的transforms.Compose中使用自定義的Data Augmentation？](https://yanwei-liu.medium.com/custom-data-augmentation-for-pytorch-transforms-compose-histogram-equalization-7c313465f753?source=rss-dc182588576c------2)
+- [PyTorch如何計算Overkill和Leakage並輸出成Excel檔案？](https://yanwei-liu.medium.com/how-to-calculate-overkill-and-leakage-and-export-to-excel-with-pytorch-and-pandas-f93b71c74cd4?source=rss-dc182588576c------2)
+- [PyTorch計算dataset的mean和std](https://yanwei-liu.medium.com/pytorch%E8%A8%88%E7%AE%97dataset%E7%9A%84mean%E5%92%8Cstd-ecadb63420ca?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
