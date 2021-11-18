@@ -18,11 +18,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [如何使用TensorBoard針對PyTorch的embedding輸出進行2D或3D的T-SNE視覺化？](https://yanwei-liu.medium.com/pytorch-2d-and-3d-tsne-visualization-d62b3226ce91?source=rss-dc182588576c------2)
 - [PyTorch資料增強：如何對圖片進行水平或垂直的Pixel Shift?](https://yanwei-liu.medium.com/how-to-random-vertical-shift-or-horizontal-shift-with-pytorch-e20542c9ba4b?source=rss-dc182588576c------2)
 - [如何在訓練PyTorch時的每個Batch中使各個類別擁有相同數量的樣本？](https://yanwei-liu.medium.com/m-sample-per-class-in-a-batch-pytorch-sampler-cc9eeb5bc630?source=rss-dc182588576c------2)
 - [解決PyTorch DataLoader中PIL TypeError: Cannot handle this data type問題](https://yanwei-liu.medium.com/pytorch-dataloader-pillow-type-error-cannot-handle-this-data-type-f3d81a796059?source=rss-dc182588576c------2)
 - [如何在PyTorch的transforms.Compose中使用自定義的Data Augmentation？](https://yanwei-liu.medium.com/custom-data-augmentation-for-pytorch-transforms-compose-histogram-equalization-7c313465f753?source=rss-dc182588576c------2)
-- [PyTorch如何計算Overkill和Leakage並輸出成Excel檔案？](https://yanwei-liu.medium.com/how-to-calculate-overkill-and-leakage-and-export-to-excel-with-pytorch-and-pandas-f93b71c74cd4?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
