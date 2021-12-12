@@ -18,11 +18,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [使用PyTorch實作Gradient Reversal Layer](https://yanwei-liu.medium.com/gradient-reversal-layer-implementation-in-pytorch-54f7d66fd033?source=rss-dc182588576c------2)
 - [使用PyTorch實作ResNet並提取指定層輸出之特徵](https://yanwei-liu.medium.com/pytorch-resnet-implementation-and-specific-model-layer-feature-extraction-8e678a13a475?source=rss-dc182588576c------2)
 - [PyTorch如何進行Transfer Learning](https://yanwei-liu.medium.com/transfer-learning-with-pytorch-67a8a0dfe9f9?source=rss-dc182588576c------2)
 - [如何使用TensorBoard針對PyTorch的embedding輸出進行2D或3D的T-SNE視覺化？](https://yanwei-liu.medium.com/pytorch-2d-and-3d-tsne-visualization-d62b3226ce91?source=rss-dc182588576c------2)
 - [PyTorch資料增強：如何對圖片進行水平或垂直的Pixel Shift?](https://yanwei-liu.medium.com/how-to-random-vertical-shift-or-horizontal-shift-with-pytorch-e20542c9ba4b?source=rss-dc182588576c------2)
-- [如何在訓練PyTorch時的每個Batch中使各個類別擁有相同數量的樣本？](https://yanwei-liu.medium.com/m-sample-per-class-in-a-batch-pytorch-sampler-cc9eeb5bc630?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
