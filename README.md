@@ -18,11 +18,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch訓練時同時使用兩個不同的Dataloader](https://yanwei-liu.medium.com/pytorch-use-two-dataloader-in-the-same-training-epoch-8a48a3ade931?source=rss-dc182588576c------2)
 - [PyTorch如何在訓練過程中對多種不同損失函數的損失值進行反向傳播？](https://yanwei-liu.medium.com/multiple-loss-backpropagation-with-pytorch-15865381333e?source=rss-dc182588576c------2)
 - [使用PyTorch實作Gradient Reversal Layer](https://yanwei-liu.medium.com/gradient-reversal-layer-implementation-in-pytorch-54f7d66fd033?source=rss-dc182588576c------2)
 - [使用PyTorch實作ResNet並提取指定層輸出之特徵](https://yanwei-liu.medium.com/pytorch-resnet-implementation-and-specific-model-layer-feature-extraction-8e678a13a475?source=rss-dc182588576c------2)
 - [PyTorch如何進行Transfer Learning](https://yanwei-liu.medium.com/transfer-learning-with-pytorch-67a8a0dfe9f9?source=rss-dc182588576c------2)
-- [如何使用TensorBoard針對PyTorch的embedding輸出進行2D或3D的T-SNE視覺化？](https://yanwei-liu.medium.com/pytorch-2d-and-3d-tsne-visualization-d62b3226ce91?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
