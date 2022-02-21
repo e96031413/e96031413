@@ -18,11 +18,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch如何計算高維度Tenosr之間的PairwiseDistance和CosineSimilarity?](https://yanwei-liu.medium.com/pytorch-pairwise-distance-and-ccosine-similarity-978311ec0bc7?source=rss-dc182588576c------2)
 - [PyTorch深度學習模型針對圖片資料集繪製決策邊界&lpar;Decision boundary&rpar;](https://yanwei-liu.medium.com/pytorch-plot-image-classification-decision-boundary-5a959a30bc7f?source=rss-dc182588576c------2)
 - [如何在同一張圖上繪製多條ROC曲線？](https://yanwei-liu.medium.com/how-to-plot-multiple-roc-curve-on-the-same-plot-with-scikit-learn-2b274e3377dc?source=rss-dc182588576c------2)
 - [PyTorch的LabelSmoothing Implementation](https://yanwei-liu.medium.com/label-smoothing-implementation-in-pytorch-a9dd1f9179fd?source=rss-dc182588576c------2)
 - [如何將PyTorch圖像資料集提取出Tensor特徵並保存成Pickle檔案?](https://yanwei-liu.medium.com/extract-pytorch-image-dataset-to-tensor-feature-and-save-as-pickle-file-ecda3935f9ed?source=rss-dc182588576c------2)
-- [找出圖像資料集中具代表性之資料的相關方法](https://yanwei-liu.medium.com/how-to-find-representative-data-of-a-big-image-dataset-5693a8087efa?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
