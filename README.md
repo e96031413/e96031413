@@ -18,11 +18,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch使用Pre-trained model進行Transfer Learning](https://yanwei-liu.medium.com/pytorch-transfer-learning-with-pre-trained-model-48708cd7831d?source=rss-dc182588576c------2)
 - [如何在PyTorch中將卷積神經網路的Batch Normalization改成Layer Normalization?](https://yanwei-liu.medium.com/convnext-replace-batch-normalization-with-layer-normalization-in-pytorch-ef26099c38ba?source=rss-dc182588576c------2)
 - [PyTorch如何計算高維度Tenosr之間的PairwiseDistance和CosineSimilarity?](https://yanwei-liu.medium.com/pytorch-pairwise-distance-and-ccosine-similarity-978311ec0bc7?source=rss-dc182588576c------2)
 - [PyTorch深度學習模型針對圖片資料集繪製決策邊界&lpar;Decision boundary&rpar;](https://yanwei-liu.medium.com/pytorch-plot-image-classification-decision-boundary-5a959a30bc7f?source=rss-dc182588576c------2)
 - [如何在同一張圖上繪製多條ROC曲線？](https://yanwei-liu.medium.com/how-to-plot-multiple-roc-curve-on-the-same-plot-with-scikit-learn-2b274e3377dc?source=rss-dc182588576c------2)
-- [PyTorch的LabelSmoothing Implementation](https://yanwei-liu.medium.com/label-smoothing-implementation-in-pytorch-a9dd1f9179fd?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
