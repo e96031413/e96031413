@@ -18,11 +18,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA Jetson Nano學習筆記（十一）：如何運行PyTorch模型？](https://yanwei-liu.medium.com/nvidia-jetson-nano%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%8D%81%E4%B8%80-%E5%A6%82%E4%BD%95%E9%81%8B%E8%A1%8Cpytorch%E6%A8%A1%E5%9E%8B-c833739d2fc?source=rss-dc182588576c------2)
 - [PyTorch使用Pre-trained model進行Transfer Learning](https://yanwei-liu.medium.com/pytorch-transfer-learning-with-pre-trained-model-48708cd7831d?source=rss-dc182588576c------2)
 - [如何在PyTorch中將卷積神經網路的Batch Normalization改成Layer Normalization?](https://yanwei-liu.medium.com/convnext-replace-batch-normalization-with-layer-normalization-in-pytorch-ef26099c38ba?source=rss-dc182588576c------2)
 - [PyTorch如何計算高維度Tenosr之間的PairwiseDistance和CosineSimilarity?](https://yanwei-liu.medium.com/pytorch-pairwise-distance-and-ccosine-similarity-978311ec0bc7?source=rss-dc182588576c------2)
 - [PyTorch深度學習模型針對圖片資料集繪製決策邊界&lpar;Decision boundary&rpar;](https://yanwei-liu.medium.com/pytorch-plot-image-classification-decision-boundary-5a959a30bc7f?source=rss-dc182588576c------2)
-- [如何在同一張圖上繪製多條ROC曲線？](https://yanwei-liu.medium.com/how-to-plot-multiple-roc-curve-on-the-same-plot-with-scikit-learn-2b274e3377dc?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
