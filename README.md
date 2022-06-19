@@ -18,11 +18,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Python技巧：如何更改List和Dict的順序?](https://yanwei-liu.medium.com/python-tricks-how-to-reorder-list-and-dict-efba5e477378?source=rss-dc182588576c------2)
 - [How To Use Mask to Select Specific Tensor in PyTorch?](https://yanwei-liu.medium.com/how-to-use-mask-to-select-specific-tensor-in-pytorch-cb8079b6afb?source=rss-dc182588576c------2)
 - [NVIDIA Jetson Nano學習筆記（十一）：如何運行PyTorch模型？](https://yanwei-liu.medium.com/nvidia-jetson-nano%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%8D%81%E4%B8%80-%E5%A6%82%E4%BD%95%E9%81%8B%E8%A1%8Cpytorch%E6%A8%A1%E5%9E%8B-c833739d2fc?source=rss-dc182588576c------2)
 - [PyTorch使用Pre-trained model進行Transfer Learning](https://yanwei-liu.medium.com/pytorch-transfer-learning-with-pre-trained-model-48708cd7831d?source=rss-dc182588576c------2)
 - [如何在PyTorch中將卷積神經網路的Batch Normalization改成Layer Normalization?](https://yanwei-liu.medium.com/convnext-replace-batch-normalization-with-layer-normalization-in-pytorch-ef26099c38ba?source=rss-dc182588576c------2)
-- [PyTorch如何計算高維度Tenosr之間的PairwiseDistance和CosineSimilarity?](https://yanwei-liu.medium.com/pytorch-pairwise-distance-and-ccosine-similarity-978311ec0bc7?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
