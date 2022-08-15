@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on a PCB Defect detection project.
 
-- 🌱 I’m currently learning **Out-of-distribution Detection**
-
 - 👨‍💻 All of my projects are available at [here](https://github.com/e96031413?tab=repositories&type=source)
 
 - 📝 I regulary write articles on [https://yanwei-liu.medium.com/](https://yanwei-liu.medium.com/)
