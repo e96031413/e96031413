@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e96031413&label=Profile%20views&color=0e75b6&style=flat" alt="e96031413" /> </p>
 
-- 🔭 I’m currently working on a PCB Defect detection project.
-
 - 👨‍💻 All of my projects are available at [here](https://github.com/e96031413?tab=repositories&type=source)
 
 - 📝 I regulary write articles on [https://yanwei-liu.medium.com/](https://yanwei-liu.medium.com/)
