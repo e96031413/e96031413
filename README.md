@@ -13,11 +13,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [如何在iPhone/iPad上透過Siri使用ChatGPT?](https://yanwei-liu.medium.com/how-to-use-chatgpt-using-siri-on-iphone-and-ipad-3214f999d58b?source=rss-dc182588576c------2)
 - [最佳的驗證碼破解服務](https://yanwei-liu.medium.com/best-captcha-service-10b76cf2ca5f?source=rss-dc182588576c------2)
 - [JupyterNotebook如何使用新版的Python kernel？](https://yanwei-liu.medium.com/upgrade-jupyter-notebook-python-kernel-9d68e4dcf91f?source=rss-dc182588576c------2)
 - [如何編輯PDF檔案中的圖片？使用LibreOffice Draw](https://yanwei-liu.medium.com/edit-pdf-figure-with-libreoffice-draw-e2f1e54449f9?source=rss-dc182588576c------2)
 - [在沒有官方文檔的情況下，如何檢查Python package的特定function有哪些arguments?](https://yanwei-liu.medium.com/find-the-argument-of-function-in-specific-python-package-78c0e08ea4e0?source=rss-dc182588576c------2)
-- [Python技巧：如何更改List和Dict的順序?](https://yanwei-liu.medium.com/python-tricks-how-to-reorder-list-and-dict-efba5e477378?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
