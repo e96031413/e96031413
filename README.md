@@ -13,11 +13,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT使用案例&lpar;一&rpar;：Image Enhancement的入門教學文章](https://yanwei-liu.medium.com/image-enhancement-an-introduction-to-techniques-and-deep-learning-methods-3c65c715b204?source=rss-dc182588576c------2)
 - [ChatGPT資源蒐集](https://yanwei-liu.medium.com/the-best-online-resource-for-chat-gpt-ecac204d019f?source=rss-dc182588576c------2)
 - [如何在iPhone/iPad上透過Siri使用ChatGPT?](https://yanwei-liu.medium.com/how-to-use-chatgpt-using-siri-on-iphone-and-ipad-3214f999d58b?source=rss-dc182588576c------2)
 - [最佳的驗證碼破解服務](https://yanwei-liu.medium.com/best-captcha-service-10b76cf2ca5f?source=rss-dc182588576c------2)
 - [JupyterNotebook如何使用新版的Python kernel？](https://yanwei-liu.medium.com/upgrade-jupyter-notebook-python-kernel-9d68e4dcf91f?source=rss-dc182588576c------2)
-- [如何編輯PDF檔案中的圖片？使用LibreOffice Draw](https://yanwei-liu.medium.com/edit-pdf-figure-with-libreoffice-draw-e2f1e54449f9?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
