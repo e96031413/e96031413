@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Becoming a Senior Software Engineer in 3 Years: Tips and Strategies from GPT-4](https://yanwei-liu.medium.com/becoming-a-senior-software-engineer-in-3-years-tips-and-strategies-from-gpt-4-b9ff3b5113ec?source=rss-dc182588576c------2)
 - [Gdown下載檔案遇到24小時內太多人進行下載的限制](https://yanwei-liu.medium.com/how-to-deal-with-gdown-too-many-users-have-viewed-or-downloaded-this-file-recently-fb390fd321a0?source=rss-dc182588576c------2)
 - [如何安裝mmcv?](https://yanwei-liu.medium.com/how-to-install-mmcv-8610967c5142?source=rss-dc182588576c------2)
 - [ChatGPT使用案例&lpar;一&rpar;：Image Enhancement的入門教學文章](https://yanwei-liu.medium.com/image-enhancement-an-introduction-to-techniques-and-deep-learning-methods-3c65c715b204?source=rss-dc182588576c------2)
 - [ChatGPT資源蒐集](https://yanwei-liu.medium.com/the-best-online-resource-for-chat-gpt-ecac204d019f?source=rss-dc182588576c------2)
-- [如何在iPhone/iPad上透過Siri使用ChatGPT?](https://yanwei-liu.medium.com/how-to-use-chatgpt-using-siri-on-iphone-and-ipad-3214f999d58b?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
