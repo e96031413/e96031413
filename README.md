@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeCursor: An Introduction to the AI-Powered Extension for Visual Studio Code](https://yanwei-liu.medium.com/codecursor-an-introduction-to-the-ai-powered-extension-for-visual-studio-code-9d252c7c3a3f?source=rss-dc182588576c------2)
 - [Simplify Your Workflow: Loading RAW Images into PyTorch Tensors Made Easy](https://yanwei-liu.medium.com/simplify-your-workflow-loading-raw-images-into-pytorch-tensors-made-easy-3697bdd87370?source=rss-dc182588576c------2)
 - [Implement IQA metric with PyTorch](https://yanwei-liu.medium.com/implement-iqa-metric-with-pytorch-fc6f09a09ae2?source=rss-dc182588576c------2)
 - [Best Podcast Application for Ubuntu](https://yanwei-liu.medium.com/best-podcast-application-for-ubuntu-ba787638fecf?source=rss-dc182588576c------2)
 - [How to know the uncompressed size of a zip file without decompressing it?](https://yanwei-liu.medium.com/how-to-know-the-uncompressed-size-of-a-zip-file-without-decompressing-it-c55b17d1be35?source=rss-dc182588576c------2)
-- [Becoming a Senior Software Engineer in 3 Years: Tips and Strategies from GPT-4](https://yanwei-liu.medium.com/becoming-a-senior-software-engineer-in-3-years-tips-and-strategies-from-gpt-4-b9ff3b5113ec?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
