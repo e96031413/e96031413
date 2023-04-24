@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [GENIUS: Can GPT-4 Perform Neural Architecture Search?](https://yanwei-liu.medium.com/can-gpt-4-perform-neural-architecture-search-d22a82808a44?source=rss-dc182588576c------2)
 - [Investing for the Future: A Python Code for Calculating Investment Returns with Dollar-Cost…](https://yanwei-liu.medium.com/investing-for-the-future-a-python-code-for-calculating-investment-returns-with-dollar-cost-15f7f4a1bb1f?source=rss-dc182588576c------2)
 - [Image Signal Processing Pipeline: Essential Operations for Enhancing Raw Images with Numpy, OpenCV…](https://yanwei-liu.medium.com/image-signal-processing-pipeline-essential-operations-for-enhancing-raw-images-with-numpy-opencv-1788b7e74378?source=rss-dc182588576c------2)
 - [Understanding Metric Learning and Contrastive Learning: A Beginner’s Guide](https://yanwei-liu.medium.com/understanding-metric-learning-and-contrastive-learning-a-beginners-guide-680115baf3a4?source=rss-dc182588576c------2)
 - [Effortlessly Transcribe and Summarize Your Favorite Podcasts with GPT-3.5 and Whisper](https://yanwei-liu.medium.com/effortlessly-transcribe-and-summarize-your-favorite-podcasts-with-gpt-3-5-and-whisper-c2e7d9bac228?source=rss-dc182588576c------2)
-- [CodeCursor: An Introduction to the AI-Powered Extension for Visual Studio Code](https://yanwei-liu.medium.com/codecursor-an-introduction-to-the-ai-powered-extension-for-visual-studio-code-9d252c7c3a3f?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
