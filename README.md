@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Weather App with Taiwan Central Weather Bureau API](https://yanwei-liu.medium.com/building-a-weather-app-with-taiwan-central-weather-bureau-api-d2f7921ca090?source=rss-dc182588576c------2)
+- [Mastering CSS Properties: A Comprehensive Guide to Display, Positioning, and Styling](https://yanwei-liu.medium.com/mastering-css-properties-a-comprehensive-guide-to-display-positioning-and-styling-44aa71865f5d?source=rss-dc182588576c------2)
+- [Building a Weather App with Taiwan Central Weather Bureau API](https://medium.com/nerd-for-tech/building-a-weather-app-with-taiwan-central-weather-bureau-api-d2f7921ca090?source=rss-dc182588576c------2)
 - [Introducing Simple-TO-DO: A GPT4 generated To-do App built with HTML, CSS, and JavaScript](https://yanwei-liu.medium.com/introducing-simple-to-do-a-gpt4-generated-to-do-app-built-with-html-css-and-javascript-75b9565cf73f?source=rss-dc182588576c------2)
 - [GENIUS: Can GPT-4 Perform Neural Architecture Search?](https://yanwei-liu.medium.com/can-gpt-4-perform-neural-architecture-search-d22a82808a44?source=rss-dc182588576c------2)
 - [Investing for the Future: A Python Code for Calculating Investment Returns with Dollar-Cost…](https://yanwei-liu.medium.com/investing-for-the-future-a-python-code-for-calculating-investment-returns-with-dollar-cost-15f7f4a1bb1f?source=rss-dc182588576c------2)
-- [Image Signal Processing Pipeline: Essential Operations for Enhancing Raw Images with Numpy, OpenCV…](https://yanwei-liu.medium.com/image-signal-processing-pipeline-essential-operations-for-enhancing-raw-images-with-numpy-opencv-1788b7e74378?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
