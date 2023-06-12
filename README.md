@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Renaming Columns Inside a TensorBoard Log File](https://yanwei-liu.medium.com/renaming-tags-inside-a-tensorboard-log-file-with-python-e2eb4d288eff?source=rss-dc182588576c------2)
 - [Image Padding to Nearest Multiple in PyTorch](https://medium.com/aimonks/image-padding-to-nearest-multiple-in-pytorch-d92f9d17bbb7?source=rss-dc182588576c------2)
 - [Mastering Tensor Padding in PyTorch: A Guide to Reflect and Replicate](https://medium.com/aimonks/mastering-tensor-padding-in-pytorch-a-guide-to-reflect-and-replicate-441b4fa8b0b4?source=rss-dc182588576c------2)
 - [Flask-Notes-App: A Simple Flask Application for Note-Taking](https://yanwei-liu.medium.com/flask-notes-app-a-simple-flask-application-for-note-taking-db34976b0bf4?source=rss-dc182588576c------2)
 - [HTML, CSS, and JavaScript Combined: A Closer Look into Stopwatch App](https://yanwei-liu.medium.com/html-css-and-javascript-combined-a-closer-look-into-stopwatch-app-d0b1b15aaa26?source=rss-dc182588576c------2)
-- [Mastering CSS Properties: A Comprehensive Guide to Display, Positioning, and Styling](https://yanwei-liu.medium.com/mastering-css-properties-a-comprehensive-guide-to-display-positioning-and-styling-44aa71865f5d?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
