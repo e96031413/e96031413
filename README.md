@@ -8,9 +8,9 @@
 
 - 📝 I regulary write articles on <a href="http://yanwei-liu.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yanwei-liu" height="30" width="40" /></a>
 
-- 📫 How to reach me **e96031413@gmail.com**
-
 - 📄 Know about my experiences <a href="https://linkedin.com/in/yanwei-liu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yanwei-liu" height="30" width="40" /></a>
+
+- 📫 Reach me **e96031413@gmail.com**
 
 <h3 align="left">My Latest Article</h3>
 
