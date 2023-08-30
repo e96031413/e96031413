@@ -15,7 +15,7 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing Pixel Value Distribution in Four-Channel RAW Images using Python and Matplotlib](https://yanwei-liu.medium.com/analyzing-pixel-value-distribution-in-four-channel-raw-images-using-python-and-matplotlib-800e4b1071c?source=rss-dc182588576c------2)
+- [Analyzing Pixel Value Distribution in Four-Channel RAW Images using Python and Matplotlib](https://medium.com/aimonks/analyzing-pixel-value-distribution-in-four-channel-raw-images-using-python-and-matplotlib-800e4b1071c?source=rss-dc182588576c------2)
 - [How To Convert RAW tensor to RGB image in PyTorch using Numpy, OpenCV, and Matplotlib?](https://yanwei-liu.medium.com/how-to-convert-raw-tensor-to-rgb-image-in-pytorch-using-numpy-opencv-matplotlib-2652ac9635a2?source=rss-dc182588576c------2)
 - [Renaming Columns Inside a TensorBoard Log File](https://medium.com/aimonks/renaming-tags-inside-a-tensorboard-log-file-with-python-e2eb4d288eff?source=rss-dc182588576c------2)
 - [Image Padding to Nearest Multiple in PyTorch](https://medium.com/aimonks/image-padding-to-nearest-multiple-in-pytorch-d92f9d17bbb7?source=rss-dc182588576c------2)
