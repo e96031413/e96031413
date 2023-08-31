@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/e96031413?tab=repositories&type=source)
 
-- 🔭 I’m currently learning **Low-light Image Enhancement, Image Signal Processing and Super Resolution**
+- 🔭 I’m currently learning **Low-light Raw Image Denoising**
 
 - 📝 I regulary write articles on <a href="http://yanwei-liu.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yanwei-liu" height="30" width="40" /></a>
 
