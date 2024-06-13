@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Calculate the FLOPs, MACs, and Parameters in PyTorch Model with calflops](https://yanwei-liu.medium.com/calculate-the-flops-macs-and-parameters-in-pytorch-model-with-calflops-579f1d05b8e4?source=rss-dc182588576c------2)
+- [How to Use Black Formatter in VSCode: A Comprehensive Guide](https://medium.com/aimonks/how-to-use-black-formatter-in-vscode-a-comprehensive-guide-7b8ad20b27f0?source=rss-dc182588576c------2)
+- [Calculate the FLOPs, MACs, and Parameters in PyTorch Model with calflops](https://medium.com/aimonks/calculate-the-flops-macs-and-parameters-in-pytorch-model-with-calflops-579f1d05b8e4?source=rss-dc182588576c------2)
 - [The Evolution of Natural Language Processing: From N-Grams to GPT](https://medium.com/aimonks/the-evolution-of-natural-language-processing-from-n-grams-to-gpt-22b67fb228ea?source=rss-dc182588576c------2)
 - [Python ffmpeg FileNotFoundError: [Errno 2] No such file or directory: ‘ffprobe’: ‘ffprobe’](https://medium.com/aimonks/python-ffmpege-file-not-found-error-no-such-file-or-directory-ffprobe-dbc156b9a136?source=rss-dc182588576c------2)
 - [How To Convert Deform Conv2d into onnx format in PyTorch?](https://yanwei-liu.medium.com/how-to-convert-deform-conv2d-into-onnx-format-in-pytorch-6220fb03b828?source=rss-dc182588576c------2)
-- [Unlocking Terminal Power: The Basics of tmux for Linux Users](https://medium.com/aimonks/unlocking-terminal-power-the-basics-of-tmux-for-linux-users-2e424fc82261?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
