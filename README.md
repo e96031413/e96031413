@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Embracing the Future of Machine Learning: A Deep Dive into Incremental Learning and Test-Time…](https://medium.com/nerd-for-tech/embracing-the-future-of-machine-learning-a-deep-dive-into-incremental-learning-and-test-time-a1c285a7b6df?source=rss-dc182588576c------2)
 - [Automatically Generate Image Caption and Exporting to JSON with BLIP](https://medium.com/aimonks/automatically-generate-image-caption-and-exporting-to-json-with-blip-cc42bd9b9b6a?source=rss-dc182588576c------2)
 - [如何使用 Pre-commit Hook 搭配 Black 套件在 GitHub 前自動格式化程式碼](https://yanwei-liu.medium.com/how-to-use-pre-commit-hook-with-black-for-auto-formatting-before-github-commit-4628592cbcf6?source=rss-dc182588576c------2)
 - [How to Use Black Formatter in VSCode: A Comprehensive Guide](https://medium.com/aimonks/how-to-use-black-formatter-in-vscode-a-comprehensive-guide-7b8ad20b27f0?source=rss-dc182588576c------2)
 - [Calculate the FLOPs, MACs, and Parameters in PyTorch Model with calflops](https://medium.com/aimonks/calculate-the-flops-macs-and-parameters-in-pytorch-model-with-calflops-579f1d05b8e4?source=rss-dc182588576c------2)
-- [The Evolution of Natural Language Processing: From N-Grams to GPT](https://medium.com/aimonks/the-evolution-of-natural-language-processing-from-n-grams-to-gpt-22b67fb228ea?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
