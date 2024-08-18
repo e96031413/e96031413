@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Pandas Guide: Comprehensive Data Processing, Analysis, and Visualization](https://yanwei-liu.medium.com/pandas-guide-comprehensive-data-processing-analysis-and-visualization-ce574df4a547?source=rss-dc182588576c------2)
+- [【閱讀心得】逆思維：華頓商學院最具影響力的教授，突破人生盲點的全局思考](https://yanwei-liu.medium.com/think-again-the-power-of-knowing-what-you-dont-know-0f5988b4777a?source=rss-dc182588576c------2)
+- [【閱讀心得】高效原力：用愉悅心態激發生產力，做更多重要的事](https://yanwei-liu.medium.com/feel-good-productivity-how-to-do-more-of-what-matters-to-you-f323de0b09d0?source=rss-dc182588576c------2)
+- [【閱讀心得】你的工作該耍廢， 還是值得拚？：經濟學家幫你把脈，讓你從厭世勞工 蛻變成普羅特斯型的聰明職人](https://yanwei-liu.medium.com/%E9%96%B1%E8%AE%80%E5%BF%83%E5%BE%97-%E4%BD%A0%E7%9A%84%E5%B7%A5%E4%BD%9C%E8%A9%B2%E8%80%8D%E5%BB%A2-%E9%82%84%E6%98%AF%E5%80%BC%E5%BE%97%E6%8B%9A-%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E5%B9%AB%E4%BD%A0%E6%8A%8A%E8%84%88-%E8%AE%93%E4%BD%A0%E5%BE%9E%E5%8E%AD%E4%B8%96%E5%8B%9E%E5%B7%A5-%E8%9B%BB%E8%AE%8A%E6%88%90%E6%99%AE%E7%BE%85%E7%89%B9%E6%96%AF%E5%9E%8B%E7%9A%84%E8%81%B0%E6%98%8E%E8%81%B7%E4%BA%BA-af2a5ae1a7d8?source=rss-dc182588576c------2)
+- [Pandas Guide: Comprehensive Data Processing, Analysis, and Visualization](https://medium.com/aimonks/pandas-guide-comprehensive-data-processing-analysis-and-visualization-ce574df4a547?source=rss-dc182588576c------2)
 - [Embracing the Future of Machine Learning: A Deep Dive into Incremental Learning and Test-Time…](https://medium.com/nerd-for-tech/embracing-the-future-of-machine-learning-a-deep-dive-into-incremental-learning-and-test-time-a1c285a7b6df?source=rss-dc182588576c------2)
-- [Automatically Generate Image Caption and Exporting to JSON with BLIP](https://medium.com/aimonks/automatically-generate-image-caption-and-exporting-to-json-with-blip-cc42bd9b9b6a?source=rss-dc182588576c------2)
-- [如何使用 Pre-commit Hook 搭配 Black 套件在 GitHub 前自動格式化程式碼](https://yanwei-liu.medium.com/how-to-use-pre-commit-hook-with-black-for-auto-formatting-before-github-commit-4628592cbcf6?source=rss-dc182588576c------2)
-- [How to Use Black Formatter in VSCode: A Comprehensive Guide](https://medium.com/aimonks/how-to-use-black-formatter-in-vscode-a-comprehensive-guide-7b8ad20b27f0?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
