@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Face Recognition in Images and Videos Using OpenCV](https://medium.com/aimonks/face-recognition-in-images-and-videos-using-opencv-7a9f2e3f3ea0?source=rss-dc182588576c------2)
 - [【閱讀心得】為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學](https://yanwei-liu.medium.com/why-we-sleep-unlocking-the-power-of-sleep-and-dreams-8c33f25b398d?source=rss-dc182588576c------2)
 - [如何使用 Makefile 自動化 Python專案Workflow](https://yanwei-liu.medium.com/use-makefile-for-python-workflow-c557148247d2?source=rss-dc182588576c------2)
 - [【閱讀心得】如何思考怪誕現象：美國大學通識課告訴你，辨識真偽的思考法則與練習](https://yanwei-liu.medium.com/how-to-think-about-weird-things-critical-thinking-for-a-new-age-49cad298e780?source=rss-dc182588576c------2)
 - [思考的謬誤與偏見：從《思考101》探討如何做出更好的判斷](https://yanwei-liu.medium.com/thinking-101-how-to-reason-better-to-live-better-de09232cc664?source=rss-dc182588576c------2)
-- [【閱讀心得】超級思維：跨界、跨域、跨能，突破思考盲點，提升解決能力的心智模式大全](https://yanwei-liu.medium.com/super-thinking-the-big-book-of-mental-models-d0753d73fd85?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
