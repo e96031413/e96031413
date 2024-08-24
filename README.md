@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [探索MLOps：提升機器學習專案品質的入門指南](https://yanwei-liu.medium.com/explore-mlops-a-beginners-guide-to-enhancing-machine-learning-project-quality-zh-tw-3fe41c891368?source=rss-dc182588576c------2)
 - [Face Recognition in Images and Videos Using OpenCV](https://medium.com/aimonks/face-recognition-in-images-and-videos-using-opencv-7a9f2e3f3ea0?source=rss-dc182588576c------2)
 - [【閱讀心得】為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學](https://yanwei-liu.medium.com/why-we-sleep-unlocking-the-power-of-sleep-and-dreams-8c33f25b398d?source=rss-dc182588576c------2)
 - [如何使用 Makefile 自動化 Python專案Workflow](https://yanwei-liu.medium.com/use-makefile-for-python-workflow-c557148247d2?source=rss-dc182588576c------2)
 - [【閱讀心得】如何思考怪誕現象：美國大學通識課告訴你，辨識真偽的思考法則與練習](https://yanwei-liu.medium.com/how-to-think-about-weird-things-critical-thinking-for-a-new-age-49cad298e780?source=rss-dc182588576c------2)
-- [思考的謬誤與偏見：從《思考101》探討如何做出更好的判斷](https://yanwei-liu.medium.com/thinking-101-how-to-reason-better-to-live-better-de09232cc664?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
