@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [【閱讀心得】一流的人如何保持顛峰](https://yanwei-liu.medium.com/peak-performance-elevate-your-game-avoid-burnout-and-thrive-with-the-new-science-of-success-a56102494b4c?source=rss-dc182588576c------2)
 - [How to Use Better Translation Service on Immersive Translate for Free?](https://medium.com/aimonks/how-to-use-better-translation-service-on-immersive-translate-for-free-69b81c290b74?source=rss-dc182588576c------2)
 - [pytorch-fid: A Powerful Tool for Evaluating Generative Models](https://medium.com/aimonks/pytorch-fid-a-powerful-tool-for-evaluating-generative-models-0a3dce77d739?source=rss-dc182588576c------2)
 - [【閱讀心得】Get Better at Anything: 12 Maxims for Mastery](https://yanwei-liu.medium.com/get-better-at-anything-12-maxims-for-mastery-en-c50e8c7d5205?source=rss-dc182588576c------2)
 - [探索MLOps：提升機器學習專案品質的入門指南](https://yanwei-liu.medium.com/explore-mlops-a-beginners-guide-to-enhancing-machine-learning-project-quality-zh-tw-3fe41c891368?source=rss-dc182588576c------2)
-- [Face Recognition in Images and Videos Using OpenCV](https://medium.com/aimonks/face-recognition-in-images-and-videos-using-opencv-7a9f2e3f3ea0?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
