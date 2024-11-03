@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Follow RSS閱讀器](https://yanwei-liu.medium.com/follow-rss-reader-c7bf15d60541?source=rss-dc182588576c------2)
 - [放棄的藝術：從「停損的勝算」學習如何聰明放棄](https://yanwei-liu.medium.com/quit-the-power-of-knowing-when-to-walk-away-24f1fc228d1e?source=rss-dc182588576c------2)
 - [Combining Images from Multiple Cameras: Methods, Deep Learning Techniques, and Practical…](https://medium.com/aimonks/combining-images-from-multiple-cameras-methods-deep-learning-techniques-and-practical-77e192e3210e?source=rss-dc182588576c------2)
 - [Designing a Deep Learning Model as a Service System: A Step-by-Step Guide](https://medium.com/aimonks/designing-a-deep-learning-model-as-a-service-system-a-step-by-step-guide-c7a3ad14e3a7?source=rss-dc182588576c------2)
 - [【閱讀心得】終局思維：矽谷、華爾街菁英高效學習法，跳脫慣性束縛、突破情勢限制，平凡時刻都是翻轉向上的瞬間](https://yanwei-liu.medium.com/clear-thinking-turing-ordinary-moments-into-extraordinary-results-0f12b8ac7a41?source=rss-dc182588576c------2)
-- [【閱讀心得】一流的人如何保持顛峰](https://yanwei-liu.medium.com/peak-performance-elevate-your-game-avoid-burnout-and-thrive-with-the-new-science-of-success-a56102494b4c?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
