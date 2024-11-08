@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Batchly Rename PDF Files Using Metadata?](https://medium.com/aimonks/how-to-batchly-rename-pdf-files-using-metadata-93007abc509a?source=rss-dc182588576c------2)
+- [How To Batchly Download Google Slides in PDF format?](https://medium.com/aimonks/how-to-batchly-download-google-slides-in-pdf-format-6cd4c950e7dc?source=rss-dc182588576c------2)
 - [Linux快速批次替換文件中的特定字串](https://yanwei-liu.medium.com/quickly-batch-replace-specific-strings-in-files-b338d8e2cd5d?source=rss-dc182588576c------2)
 - [Follow RSS閱讀器](https://yanwei-liu.medium.com/follow-rss-reader-c7bf15d60541?source=rss-dc182588576c------2)
 - [放棄的藝術：從「停損的勝算」學習如何聰明放棄](https://yanwei-liu.medium.com/quit-the-power-of-knowing-when-to-walk-away-24f1fc228d1e?source=rss-dc182588576c------2)
-- [Combining Images from Multiple Cameras: Methods, Deep Learning Techniques, and Practical…](https://medium.com/aimonks/combining-images-from-multiple-cameras-methods-deep-learning-techniques-and-practical-77e192e3210e?source=rss-dc182588576c------2)
-- [Designing a Deep Learning Model as a Service System: A Step-by-Step Guide](https://medium.com/aimonks/designing-a-deep-learning-model-as-a-service-system-a-step-by-step-guide-c7a3ad14e3a7?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
