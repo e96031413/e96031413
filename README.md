@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [使用C#開發YOLOv11物件偵測桌面應用程式](https://yanwei-liu.medium.com/building-a-yolov11-object-detection-desktop-app-using-c-d86dbe78629e?source=rss-dc182588576c------2)
 - [批次轉換 PPTX 檔案為 PDF 的方法](https://yanwei-liu.medium.com/batchly-converting-pptx-to-pdf-9638de4c1424?source=rss-dc182588576c------2)
 - [如何用C#&lpar;.Net&rpar;開發計算機程式？以GTK#為例](https://yanwei-liu.medium.com/how-to-build-calculator-app-in-csharp-dotnet-with-gtksharp-903552d67634?source=rss-dc182588576c------2)
 - [如何在Ubuntu 18.04中建立C#&lpar;.Net&rpar;開發環境？](https://yanwei-liu.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8ubuntu-18-04%E4%B8%AD%E5%BB%BA%E7%AB%8Bc-net-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83-8dac514fe155?source=rss-dc182588576c------2)
 - [How to Batchly Rename PDF Files Using Metadata?](https://medium.com/aimonks/how-to-batchly-rename-pdf-files-using-metadata-93007abc509a?source=rss-dc182588576c------2)
-- [How To Batchly Download Google Slides in PDF format?](https://medium.com/aimonks/how-to-batchly-download-google-slides-in-pdf-format-6cd4c950e7dc?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
