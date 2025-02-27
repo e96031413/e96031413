@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Transformer 架構與其在 LLM 中的核心地位](https://yanwei-liu.medium.com/the-transformer-architecture-and-its-central-role-in-large-language-models-780816586be9?source=rss-dc182588576c------2)
 - [arXiv 論文太多看不完？GPT-4 幫你自動生成結構化摘要！](https://yanwei-liu.medium.com/too-many-arxiv-papers-to-read-gpt-4-automatically-creates-structured-summaries-bb9bce97bf6c?source=rss-dc182588576c------2)
 - [打造你的專屬程式碼提示管理工具：一個 Chrome Extension 的開發故事](https://yanwei-liu.medium.com/prompt-manager-chrome-extension-97247c4659e9?source=rss-dc182588576c------2)
 - [GARMIN Forerunner 255 Spotify Sync Issues? Troubleshooting Wi-Fi Connection Problems and Solutions](https://yanwei-liu.medium.com/garmin-forerunner-255-spotify-sync-issues-troubleshooting-wi-fi-connection-problems-and-solutions-c7cf23e80f30?source=rss-dc182588576c------2)
 - [browser-use: 使用AI模型控制瀏覽器](https://yanwei-liu.medium.com/enable-ai-to-control-your-browser-with-browser-use-b5dcbc89daa4?source=rss-dc182588576c------2)
-- [Model Context Protocol &lpar;MCP&rpar;：AI 生態系統的新賽局](https://yanwei-liu.medium.com/model-context-protocol-mcp-a7d424e0f1d0?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
