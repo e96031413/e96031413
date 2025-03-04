@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM Post-Training: A Deep Dive into Reasoning Large Language Models](https://yanwei-liu.medium.com/llm-post-training-a-deep-dive-into-reasoning-large-language-models-0eca641155d3?source=rss-dc182588576c------2)
+- [Optimize LLM with Fine-tuning：微調大型語言模型](https://yanwei-liu.medium.com/optimize-llm-with-fine-tuning-22d011534535?source=rss-dc182588576c------2)
 - [Retrieval-Augmented Generation &lpar;RAG&rpar;](https://yanwei-liu.medium.com/retrieval-augmented-generation-rag-d8fda5e92883?source=rss-dc182588576c------2)
 - [Fractal Generative Models](https://yanwei-liu.medium.com/fractal-generative-models-35f50755af36?source=rss-dc182588576c------2)
 - [LoRA（Low-Rank Adaptation）](https://yanwei-liu.medium.com/lora-low-rank-adaptation-b1187fac50bc?source=rss-dc182588576c------2)
-- [Large Language Diffusion Models](https://yanwei-liu.medium.com/large-language-diffusion-models-88913f80c8f5?source=rss-dc182588576c------2)
-- [Prompt Engineering — 提升大型語言模型表現的藝術與技術](https://yanwei-liu.medium.com/prompt-engineering-enhancing-large-language-model-performance-art-and-skill-7a5d2c3c7900?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
