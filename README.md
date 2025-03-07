@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nature-Inspired Population-Based Evolution of Large Language Models](https://yanwei-liu.medium.com/nature-inspired-population-based-evolution-of-large-language-models-db9d941e59cb?source=rss-dc182588576c------2)
+- [Agentic AI](https://yanwei-liu.medium.com/agentic-ai-33791af677b4?source=rss-dc182588576c------2)
 - [LLM模型的推理優化](https://yanwei-liu.medium.com/inference-optimization-in-ai-model-7747e33fda55?source=rss-dc182588576c------2)
 - [LLM Post-Training: A Deep Dive into Reasoning Large Language Models](https://yanwei-liu.medium.com/llm-post-training-a-deep-dive-into-reasoning-large-language-models-0eca641155d3?source=rss-dc182588576c------2)
 - [Optimize LLM with Fine-tuning：微調大型語言模型](https://yanwei-liu.medium.com/optimize-llm-with-fine-tuning-22d011534535?source=rss-dc182588576c------2)
-- [Retrieval-Augmented Generation &lpar;RAG&rpar;](https://yanwei-liu.medium.com/retrieval-augmented-generation-rag-d8fda5e92883?source=rss-dc182588576c------2)
-- [Fractal Generative Models](https://yanwei-liu.medium.com/fractal-generative-models-35f50755af36?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
