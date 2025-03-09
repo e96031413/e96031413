@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM Model Evaluation Metrics](https://yanwei-liu.medium.com/llm-model-evaluation-metrics-5ff9515ecb83?source=rss-dc182588576c------2)
 - [Stable Diffusion](https://yanwei-liu.medium.com/stable-diffusion-49c78269c918?source=rss-dc182588576c------2)
 - [Nature-Inspired Population-Based Evolution of Large Language Models](https://yanwei-liu.medium.com/nature-inspired-population-based-evolution-of-large-language-models-db9d941e59cb?source=rss-dc182588576c------2)
 - [Agentic AI](https://yanwei-liu.medium.com/agentic-ai-33791af677b4?source=rss-dc182588576c------2)
 - [LLM模型的推理優化](https://yanwei-liu.medium.com/inference-optimization-in-ai-model-7747e33fda55?source=rss-dc182588576c------2)
-- [LLM Post-Training: A Deep Dive into Reasoning Large Language Models](https://yanwei-liu.medium.com/llm-post-training-a-deep-dive-into-reasoning-large-language-models-0eca641155d3?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
