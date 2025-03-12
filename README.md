@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Contrastive Learning（對比學習）](https://yanwei-liu.medium.com/contrastive-learning-2c1fff7c95b5?source=rss-dc182588576c------2)
 - [Context Length Extension（上下文長度擴展）](https://yanwei-liu.medium.com/context-length-extension-60b8c06accd4?source=rss-dc182588576c------2)
 - [Attention Mechanism（注意力機制）](https://yanwei-liu.medium.com/attention-mechanism-%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%A9%9F%E5%88%B6-b586e393d9f3?source=rss-dc182588576c------2)
 - [LLM Model Evaluation Metrics](https://yanwei-liu.medium.com/llm-model-evaluation-metrics-5ff9515ecb83?source=rss-dc182588576c------2)
 - [Stable Diffusion](https://yanwei-liu.medium.com/stable-diffusion-49c78269c918?source=rss-dc182588576c------2)
-- [Nature-Inspired Population-Based Evolution of Large Language Models](https://yanwei-liu.medium.com/nature-inspired-population-based-evolution-of-large-language-models-db9d941e59cb?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
