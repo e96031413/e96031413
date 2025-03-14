@@ -15,11 +15,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [視覺語言模型研究報告&lpar;A Survey of Vision Language Model&rpar;](https://yanwei-liu.medium.com/a-survey-of-vision-language-models-ce99c2427b85?source=rss-dc182588576c------2)
+- [YOLOE：Real-Time Seeing Anything](https://yanwei-liu.medium.com/yoloe-real-time-seeing-anything-0c4502353940?source=rss-dc182588576c------2)
+- [Hypernetworks](https://yanwei-liu.medium.com/hypernetworks-aa3d26fc53dc?source=rss-dc182588576c------2)
 - [Sparse Transformers](https://yanwei-liu.medium.com/sparse-transformers-2fea8fa2d9cc?source=rss-dc182588576c------2)
 - [Gemma 3](https://yanwei-liu.medium.com/gemma-3-4b6c0897edcf?source=rss-dc182588576c------2)
-- [Contrastive Learning（對比學習）](https://yanwei-liu.medium.com/contrastive-learning-2c1fff7c95b5?source=rss-dc182588576c------2)
-- [Context Length Extension（上下文長度擴展）](https://yanwei-liu.medium.com/context-length-extension-60b8c06accd4?source=rss-dc182588576c------2)
-- [Attention Mechanism（注意力機制）](https://yanwei-liu.medium.com/attention-mechanism-%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%A9%9F%E5%88%B6-b586e393d9f3?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
