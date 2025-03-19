@@ -4,11 +4,9 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/e96031413?tab=repositories&type=source)
 
-- 🔭 I’m currently learning **Test-time Adaptation**
+- 🔭 I’m currently learning **Vision Language Model**
 
 - 📝 I regulary write articles on <a href="http://yanwei-liu.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yanwei-liu" height="30" width="40" /></a>
-
-- 📄 Know about my experiences <a href="https://linkedin.com/in/yanwei-liu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yanwei-liu" height="30" width="40" /></a>
 
 - 📫 Reach me **e96031413@gmail.com**
 
