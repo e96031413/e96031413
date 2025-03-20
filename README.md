@@ -13,11 +13,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [FoodLMM: A Versatile Food Assistant using Large Multi-modal Model](https://yanwei-liu.medium.com/foodlmm-a-versatile-food-assistant-using-large-multi-modal-model-331a03200d07?source=rss-dc182588576c------2)
+- [VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding](https://yanwei-liu.medium.com/videollama-3-frontier-multimodal-foundation-models-for-image-and-video-understanding-c9ca51c83f2e?source=rss-dc182588576c------2)
+- [CaLoRAify: Calorie Estimation with Visual-Text Pairingand LoRA-Driven Visual Language Models](https://yanwei-liu.medium.com/caloraify-calorie-estimation-with-visual-text-pairingand-lora-driven-visual-language-models-96dbbd503c0c?source=rss-dc182588576c------2)
 - [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://yanwei-liu.medium.com/nutrition5k-towards-automatic-nutritional-understanding-of-generic-food-4c5199e58955?source=rss-dc182588576c------2)
 - [RecipeGen: A Benchmark for Real-World Recipe Image Generation](https://yanwei-liu.medium.com/recipegen-a-benchmark-for-real-world-recipe-image-generation-859725345c3a?source=rss-dc182588576c------2)
-- [Chain of Thought Prompting（思維鏈提示技術）](https://yanwei-liu.medium.com/chain-of-thought-prompting-5cbd16375fdb?source=rss-dc182588576c------2)
-- [Functional API in LLMs](https://yanwei-liu.medium.com/functional-api-in-llms-409091d08d64?source=rss-dc182588576c------2)
-- [學術論文比較分析：VideoChat-Flash &lpar;VCF&rpar; vs. InternVideo2.5 &lpar;IV2.5&rpar;](https://yanwei-liu.medium.com/%E5%AD%B8%E8%A1%93%E8%AB%96%E6%96%87%E6%AF%94%E8%BC%83%E5%88%86%E6%9E%90-videochat-flash-vcf-vs-internvideo2-5-iv2-5-fbb252fd2722?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
