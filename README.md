@@ -13,11 +13,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mamba 架構：新一代序列建模模型](https://yanwei-liu.medium.com/mamba-linear-time-sequence-modeling-with-selective-state-spaces-7abaf3170127?source=rss-dc182588576c------2)
 - [Windsurf：AI時代的程式開發新體驗](https://yanwei-liu.medium.com/windsurf-ai-coding-tool-experience-the-next-generation-of-intelligent-collaboration-d71fb2dd9208?source=rss-dc182588576c------2)
 - [AI-native Memory 2.0: Second Me](https://yanwei-liu.medium.com/ai-native-memory-2-0-second-me-6e41b7ae262b?source=rss-dc182588576c------2)
 - [TULIP: Towards Unified Language-Image Pretraining](https://yanwei-liu.medium.com/tulip-towards-unified-language-image-pretraining-32544305a310?source=rss-dc182588576c------2)
 - [FoodLMM: A Versatile Food Assistant using Large Multi-modal Model](https://yanwei-liu.medium.com/foodlmm-a-versatile-food-assistant-using-large-multi-modal-model-331a03200d07?source=rss-dc182588576c------2)
-- [VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding](https://yanwei-liu.medium.com/videollama-3-frontier-multimodal-foundation-models-for-image-and-video-understanding-c9ca51c83f2e?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
