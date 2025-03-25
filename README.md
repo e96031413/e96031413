@@ -13,11 +13,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [如何用Claude 3.7 Sonnet生成海報/知識卡片？以計算機網路OSI Model為例](https://yanwei-liu.medium.com/create-beautiful-poster-with-claude-3-7-sonnet-b2acd9eeacd0?source=rss-dc182588576c------2)
 - [Aider：在 Terminal 中享受 Cursor 與 Windsurf 般的 AI 程式開發體驗](https://yanwei-liu.medium.com/aider-ai-pair-programming-in-your-terminal-00d2c981c499?source=rss-dc182588576c------2)
 - [Mamba 架構：新一代序列建模模型](https://yanwei-liu.medium.com/mamba-linear-time-sequence-modeling-with-selective-state-spaces-7abaf3170127?source=rss-dc182588576c------2)
 - [Windsurf：AI時代的程式開發新體驗](https://yanwei-liu.medium.com/windsurf-ai-coding-tool-experience-the-next-generation-of-intelligent-collaboration-d71fb2dd9208?source=rss-dc182588576c------2)
 - [AI-native Memory 2.0: Second Me](https://yanwei-liu.medium.com/ai-native-memory-2-0-second-me-6e41b7ae262b?source=rss-dc182588576c------2)
-- [TULIP: Towards Unified Language-Image Pretraining](https://yanwei-liu.medium.com/tulip-towards-unified-language-image-pretraining-32544305a310?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
