@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yanwei Liu</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e96031413&label=Profile%20views&color=0e75b6&style=flat" alt="e96031413" /> </p>
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/e96031413?tab=repositories&type=source)
@@ -7,8 +5,6 @@
 - 🔭 I’m currently learning **Vision Language Model**
 
 - 📝 I regulary write articles on <a href="http://yanwei-liu.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yanwei-liu" height="30" width="40" /></a>
-
-- 📫 Reach me **e96031413@gmail.com**
 
 <h3 align="left">My Latest Article</h3>
 
