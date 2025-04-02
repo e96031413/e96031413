@@ -9,11 +9,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [軟體工程職涯地圖全解析：角色職責、技能需求與發展方向](https://yanwei-liu.medium.com/complete-guide-to-software-engineering-careers-roles-skills-and-career-paths-70c58f03b570?source=rss-dc182588576c------2)
 - [空氣清淨機選購與使用終極指南](https://yanwei-liu.medium.com/the-ultimate-guide-to-buying-and-using-air-purifiers-31dcafbfc0f3?source=rss-dc182588576c------2)
 - [GitHub + Netlify 打造 PWA 手機 APP 與網站完整攻略](https://yanwei-liu.medium.com/github-netlify-pwa-mobile-app-website-guide-3d253b1e1f3d?source=rss-dc182588576c------2)
 - [如何用Claude 3.7 Sonnet生成海報/知識卡片？以計算機網路OSI Model為例](https://yanwei-liu.medium.com/create-beautiful-poster-with-claude-3-7-sonnet-b2acd9eeacd0?source=rss-dc182588576c------2)
 - [Aider：在 Terminal 中享受 Cursor 與 Windsurf 般的 AI 程式開發體驗](https://yanwei-liu.medium.com/aider-ai-pair-programming-in-your-terminal-00d2c981c499?source=rss-dc182588576c------2)
-- [Mamba 架構：新一代序列建模模型](https://yanwei-liu.medium.com/mamba-linear-time-sequence-modeling-with-selective-state-spaces-7abaf3170127?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
