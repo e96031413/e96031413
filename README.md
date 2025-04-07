@@ -9,11 +9,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [如何避免rm -rf指令誤刪檔案？](https://yanwei-liu.medium.com/how-to-prevent-accidental-file-deletion-with-the-rm-rf-command-b3ba367b10e9?source=rss-dc182588576c------2)
+- [Llama 4 來了！快來認識 Meta 這款強大的新 AI 模型有哪些亮點](https://yanwei-liu.medium.com/the-llama-4-the-beginning-of-a-new-era-of-natively-multimodal-ai-innovation-584a5d5c2026?source=rss-dc182588576c------2)
 - [使用 Hugging Face Spaces 部署Gradio物件偵測系統：完整指南](https://yanwei-liu.medium.com/a-complete-guide-to-deploying-a-gradio-object-detection-system-on-hugging-face-spaces-1e649423628c?source=rss-dc182588576c------2)
 - [軟體工程職涯地圖全解析：角色職責、技能需求與發展方向](https://yanwei-liu.medium.com/complete-guide-to-software-engineering-careers-roles-skills-and-career-paths-70c58f03b570?source=rss-dc182588576c------2)
 - [空氣清淨機選購與使用終極指南](https://yanwei-liu.medium.com/the-ultimate-guide-to-buying-and-using-air-purifiers-31dcafbfc0f3?source=rss-dc182588576c------2)
-- [GitHub + Netlify 打造 PWA 手機 APP 與網站完整攻略](https://yanwei-liu.medium.com/github-netlify-pwa-mobile-app-website-guide-3d253b1e1f3d?source=rss-dc182588576c------2)
-- [如何用Claude 3.7 Sonnet生成海報/知識卡片？以計算機網路OSI Model為例](https://yanwei-liu.medium.com/create-beautiful-poster-with-claude-3-7-sonnet-b2acd9eeacd0?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
