@@ -9,11 +9,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [什麼是 Agent2Agent &lpar;A2A&rpar; Protocol？](https://yanwei-liu.medium.com/what-is-agent2agent-protocol-a2a-11aa92c49ebd?source=rss-dc182588576c------2)
 - [從「會答」到「會用工具」－o‑系列的思考力躍遷：OpenAI o3 ＆ o4-mini](https://yanwei-liu.medium.com/introducing-openai-o3-and-o4-mini-cc136ec9f492?source=rss-dc182588576c------2)
 - [InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://yanwei-liu.medium.com/intern-vl3-exploring-advanced-training-and-test-time-recipes-for-open-source-multimodal-models-5b7a8802cdaf?source=rss-dc182588576c------2)
 - [GPT-4.1 全面升級：程式編寫、指令理解與長文本處理的突破](https://yanwei-liu.medium.com/introducing-gpt-4-1-in-the-api-c272d675dd25?source=rss-dc182588576c------2)
 - [使用 rclone 將檔案上傳至 Google Drive](https://yanwei-liu.medium.com/upload-files-to-google-drive-from-remote-server-with-rclone-4f108ed6a59b?source=rss-dc182588576c------2)
-- [Qwen2.5-VL Technical Report](https://yanwei-liu.medium.com/qwen2-5-vl-technical-report-03d37017058f?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
