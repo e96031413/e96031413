@@ -9,11 +9,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwen3: Think Deeper, Act Faster](https://yanwei-liu.medium.com/qwen3-think-deeper-act-faster-839feb80e429?source=rss-dc182588576c------2)
 - [Cursor / Windusrf / VSCode如何解決透過SSH連線到Remote時卡在Downloading vscode server step？](https://yanwei-liu.medium.com/how-to-fix-stuck-at-downloading-vs-code-server-when-connecting-via-ssh-in-cursor-windsurf-or-vs-code-d35e1f819b95?source=rss-dc182588576c------2)
 - [什麼是 Agent2Agent &lpar;A2A&rpar; Protocol？](https://yanwei-liu.medium.com/what-is-agent2agent-protocol-a2a-11aa92c49ebd?source=rss-dc182588576c------2)
 - [從「會答」到「會用工具」－o‑系列的思考力躍遷：OpenAI o3 ＆ o4-mini](https://yanwei-liu.medium.com/introducing-openai-o3-and-o4-mini-cc136ec9f492?source=rss-dc182588576c------2)
 - [InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://yanwei-liu.medium.com/intern-vl3-exploring-advanced-training-and-test-time-recipes-for-open-source-multimodal-models-5b7a8802cdaf?source=rss-dc182588576c------2)
-- [GPT-4.1 全面升級：程式編寫、指令理解與長文本處理的突破](https://yanwei-liu.medium.com/introducing-gpt-4-1-in-the-api-c272d675dd25?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
