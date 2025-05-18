@@ -9,11 +9,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [如何使用LLaMA-Factory在自己的資料集上訓練視覺語言模型&lpar;VLM&rpar;?](https://yanwei-liu.medium.com/fine-tuning-visual-language-models-with-llama-factory-a-custom-dataset-tutorial-e73b539ca4aa?source=rss-dc182588576c------2)
 - [Gemini 2.5 Pro Preview: even better coding performance](https://yanwei-liu.medium.com/gemini-2-5-pro-preview-even-better-coding-performance-8a5424e0ce1a?source=rss-dc182588576c------2)
 - [Qwen3: Think Deeper, Act Faster](https://yanwei-liu.medium.com/qwen3-think-deeper-act-faster-839feb80e429?source=rss-dc182588576c------2)
 - [Cursor / Windusrf / VSCode如何解決透過SSH連線到Remote時卡在Downloading vscode server step？](https://yanwei-liu.medium.com/how-to-fix-stuck-at-downloading-vs-code-server-when-connecting-via-ssh-in-cursor-windsurf-or-vs-code-d35e1f819b95?source=rss-dc182588576c------2)
 - [什麼是 Agent2Agent &lpar;A2A&rpar; Protocol？](https://yanwei-liu.medium.com/what-is-agent2agent-protocol-a2a-11aa92c49ebd?source=rss-dc182588576c------2)
-- [從「會答」到「會用工具」－o‑系列的思考力躍遷：OpenAI o3 ＆ o4-mini](https://yanwei-liu.medium.com/introducing-openai-o3-and-o4-mini-cc136ec9f492?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
