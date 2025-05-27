@@ -9,11 +9,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [RAG（Retrieval-Augmented Generation）的三種檢索方式：語意檢索（Semantic Search）、關鍵字檢索（Keyword Search）、混合檢索（Hybrid…](https://yanwei-liu.medium.com/rag-retrieval-augmented-generation-%E7%9A%84%E4%B8%89%E7%A8%AE%E6%AA%A2%E7%B4%A2%E6%96%B9%E5%BC%8F-%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2-semantic-search-%E9%97%9C%E9%8D%B5%E5%AD%97%E6%AA%A2%E7%B4%A2-keyword-search-%E6%B7%B7%E5%90%88%E6%AA%A2%E7%B4%A2-hybrid-688911affda1?source=rss-dc182588576c------2)
 - [【Google I/O 2025 重點整理】從 Gemini 到 AI 電影製作，一場全面進化的人工智慧盛宴！](https://yanwei-liu.medium.com/google-io-2025-e717a88159b7?source=rss-dc182588576c------2)
 - [如何使用LLaMA-Factory在自己的資料集上訓練視覺語言模型&lpar;VLM&rpar;?](https://yanwei-liu.medium.com/fine-tuning-visual-language-models-with-llama-factory-a-custom-dataset-tutorial-e73b539ca4aa?source=rss-dc182588576c------2)
 - [Gemini 2.5 Pro Preview: even better coding performance](https://yanwei-liu.medium.com/gemini-2-5-pro-preview-even-better-coding-performance-8a5424e0ce1a?source=rss-dc182588576c------2)
 - [Qwen3: Think Deeper, Act Faster](https://yanwei-liu.medium.com/qwen3-think-deeper-act-faster-839feb80e429?source=rss-dc182588576c------2)
-- [Cursor / Windusrf / VSCode如何解決透過SSH連線到Remote時卡在Downloading vscode server step？](https://yanwei-liu.medium.com/how-to-fix-stuck-at-downloading-vs-code-server-when-connecting-via-ssh-in-cursor-windsurf-or-vs-code-d35e1f819b95?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
