@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple in China: The Capture of the World’s Greatest Company](https://gradient-drift.medium.com/apple-in-china-the-capture-of-the-worlds-greatest-company-72a111b46453?source=rss-dc182588576c------2)
 - [軟體開發自動化測試全面學習指南](https://gradient-drift.medium.com/introduction-to-software-testing-4919df039cad?source=rss-dc182588576c------2)
 - [RAG（Retrieval-Augmented Generation）的三種檢索方式：語意檢索（Semantic Search）、關鍵字檢索（Keyword Search）、混合檢索（Hybrid…](https://gradient-drift.medium.com/rag-retrieval-augmented-generation-%E7%9A%84%E4%B8%89%E7%A8%AE%E6%AA%A2%E7%B4%A2%E6%96%B9%E5%BC%8F-%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2-semantic-search-%E9%97%9C%E9%8D%B5%E5%AD%97%E6%AA%A2%E7%B4%A2-keyword-search-%E6%B7%B7%E5%90%88%E6%AA%A2%E7%B4%A2-hybrid-688911affda1?source=rss-dc182588576c------2)
 - [【Google I/O 2025 重點整理】從 Gemini 到 AI 電影製作，一場全面進化的人工智慧盛宴！](https://gradient-drift.medium.com/google-io-2025-e717a88159b7?source=rss-dc182588576c------2)
 - [如何使用LLaMA-Factory在自己的資料集上訓練視覺語言模型&lpar;VLM&rpar;?](https://gradient-drift.medium.com/fine-tuning-visual-language-models-with-llama-factory-a-custom-dataset-tutorial-e73b539ca4aa?source=rss-dc182588576c------2)
-- [Gemini 2.5 Pro Preview: even better coding performance](https://gradient-drift.medium.com/gemini-2-5-pro-preview-even-better-coding-performance-8a5424e0ce1a?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
