@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Andrej Karpathy：軟體正在再次變革 — 從軟體 3.0 到為 AI 代理而建的未來](https://gradient-drift.medium.com/andrej-karpathy-software-is-changing-again-f932392c3ee7?source=rss-dc182588576c------2)
 - [解鎖未來：AI 代理人 &lpar;AI Agent&rpar; 介紹](https://gradient-drift.medium.com/introduction-to-ai-agent-4e945bdad526?source=rss-dc182588576c------2)
 - [Apple in China: The Capture of the World’s Greatest Company](https://gradient-drift.medium.com/apple-in-china-the-capture-of-the-worlds-greatest-company-72a111b46453?source=rss-dc182588576c------2)
 - [軟體開發自動化測試全面學習指南](https://gradient-drift.medium.com/introduction-to-software-testing-4919df039cad?source=rss-dc182588576c------2)
 - [RAG（Retrieval-Augmented Generation）的三種檢索方式：語意檢索（Semantic Search）、關鍵字檢索（Keyword Search）、混合檢索（Hybrid…](https://gradient-drift.medium.com/rag-retrieval-augmented-generation-%E7%9A%84%E4%B8%89%E7%A8%AE%E6%AA%A2%E7%B4%A2%E6%96%B9%E5%BC%8F-%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2-semantic-search-%E9%97%9C%E9%8D%B5%E5%AD%97%E6%AA%A2%E7%B4%A2-keyword-search-%E6%B7%B7%E5%90%88%E6%AA%A2%E7%B4%A2-hybrid-688911affda1?source=rss-dc182588576c------2)
-- [【Google I/O 2025 重點整理】從 Gemini 到 AI 電影製作，一場全面進化的人工智慧盛宴！](https://gradient-drift.medium.com/google-io-2025-e717a88159b7?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
