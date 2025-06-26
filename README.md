@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [常見的強化學習技術：DPO, PPO, GRPO](https://gradient-drift.medium.com/introduction-to-dpo-ppo-and-grpo-in-large-language-model-ae718f884fbf?source=rss-dc182588576c------2)
 - [槓鈴策略在日常生活中的應用與創新延伸](https://gradient-drift.medium.com/barbell-strategy-c19c75da4d69?source=rss-dc182588576c------2)
 - [詐騙社會學：華人第一本探索詐騙、謊言與信任的專書](https://gradient-drift.medium.com/sociology-of-fraud-the-first-chinese-book-exploring-deception-lies-and-trust-10c377aaae08?source=rss-dc182588576c------2)
 - [倦怠的5大解藥，從有毒工作中奪回你的人生](https://gradient-drift.medium.com/the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-f375cd3bd699?source=rss-dc182588576c------2)
 - [Andrej Karpathy：軟體正在再次變革 — 從軟體 3.0 到為 AI 代理而建的未來](https://gradient-drift.medium.com/andrej-karpathy-software-is-changing-again-f932392c3ee7?source=rss-dc182588576c------2)
-- [解鎖未來：AI 代理人 &lpar;AI Agent&rpar; 介紹](https://gradient-drift.medium.com/introduction-to-ai-agent-4e945bdad526?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
