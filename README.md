@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [超長上下文時代下檢索增強生成（RAG）必要性分析](https://gradient-drift.medium.com/the-necessity-of-retrieval-augmented-generation-rag-in-the-era-of-ultra-long-context-language-models-fe281f8b0ccd?source=rss-dc182588576c------2)
 - [MCP 是什麼？讓 AI 學會與世界對話的通用語言](https://gradient-drift.medium.com/introduction-to-mcp-2d8397834883?source=rss-dc182588576c------2)
 - [常見的強化學習技術：DPO, PPO, GRPO](https://gradient-drift.medium.com/introduction-to-dpo-ppo-and-grpo-in-large-language-model-ae718f884fbf?source=rss-dc182588576c------2)
 - [槓鈴策略在日常生活中的應用與創新延伸](https://gradient-drift.medium.com/barbell-strategy-c19c75da4d69?source=rss-dc182588576c------2)
 - [詐騙社會學：華人第一本探索詐騙、謊言與信任的專書](https://gradient-drift.medium.com/sociology-of-fraud-the-first-chinese-book-exploring-deception-lies-and-trust-10c377aaae08?source=rss-dc182588576c------2)
-- [倦怠的5大解藥，從有毒工作中奪回你的人生](https://gradient-drift.medium.com/the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-f375cd3bd699?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
