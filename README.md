@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [巨型語言模型的情境工程：A Survey of Context Engineering for Large Language Models](https://gradient-drift.medium.com/a-survey-of-context-engineering-for-large-language-models-ca6a1a652008?source=rss-dc182588576c------2)
 - [5分鐘掌握Docker：學會20%功能，搞定80%任務！](https://gradient-drift.medium.com/master-docker-in-5-minutes-learn-20-of-its-features-to-tackle-80-of-your-tasks-6d93aab067d7?source=rss-dc182588576c------2)
 - [在數字背後找尋真實：用人性之眼解讀 MAE、MSE、RMSE 與 R² 的差異](https://gradient-drift.medium.com/beyond-the-numbers-understanding-the-differences-between-mae-mse-rmse-and-r%C2%B2-with-a-human-touch-d245ce7ea31f?source=rss-dc182588576c------2)
 - [AI「腦力預支」術：解密「睡眠時計算」如何讓LLM更高效、更省錢](https://gradient-drift.medium.com/sleep-time-compute-beyond-inference-scaling-at-test-time-7b5f5ba20152?source=rss-dc182588576c------2)
 - [CoT（Chain-of-Thought）、Self-consistency CoT、ToT（Tree-of-Thought）、GoT（Graph-of-Thought）](https://gradient-drift.medium.com/chain-of-thought-self-consistency-chain-of-thought-tree-of-thought-graph-of-thought-0dd503e24326?source=rss-dc182588576c------2)
-- [超長上下文時代下檢索增強生成（RAG）必要性分析](https://gradient-drift.medium.com/the-necessity-of-retrieval-augmented-generation-rag-in-the-era-of-ultra-long-context-language-models-fe281f8b0ccd?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
