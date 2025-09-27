@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [18種常見的RAG技術](https://gradient-drift.medium.com/introduction-to-advanced-rag-techniques-b82dc5e3e0bd?source=rss-dc182588576c------2)
+- [17 Agentic AI Patterns](https://gradient-drift.medium.com/17-agentic-ai-patterns-9f7fdeb3d604?source=rss-dc182588576c------2)
 - [大型語言模型效率與優化技術深度解析：從模型壓縮到推理加速的全方位指南](https://gradient-drift.medium.com/large-language-model-efficiency-and-optimization-techniques-a-comprehensive-guide-701716cfc81b?source=rss-dc182588576c------2)
 - [上下文工程 &lpar;Context Engineering&rpar; — AI Agent 背後的關鍵技術](https://gradient-drift.medium.com/context-engineering-fbec2c8dc3d4?source=rss-dc182588576c------2)
 - [巨型語言模型的情境工程：A Survey of Context Engineering for Large Language Models](https://gradient-drift.medium.com/a-survey-of-context-engineering-for-large-language-models-ca6a1a652008?source=rss-dc182588576c------2)
-- [5分鐘掌握Docker：學會20%功能，搞定80%任務！](https://gradient-drift.medium.com/master-docker-in-5-minutes-learn-20-of-its-features-to-tackle-80-of-your-tasks-6d93aab067d7?source=rss-dc182588576c------2)
-- [在數字背後找尋真實：用人性之眼解讀 MAE、MSE、RMSE 與 R² 的差異](https://gradient-drift.medium.com/beyond-the-numbers-understanding-the-differences-between-mae-mse-rmse-and-r%C2%B2-with-a-human-touch-d245ce7ea31f?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
