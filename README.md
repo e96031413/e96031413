@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Claude Sonnet 4.5](https://gradient-drift.medium.com/introducing-claude-sonnet-4-5-f352a34bfc13?source=rss-dc182588576c------2)
 - [18種常見的RAG技術](https://gradient-drift.medium.com/introduction-to-advanced-rag-techniques-b82dc5e3e0bd?source=rss-dc182588576c------2)
 - [17 Agentic AI Patterns](https://gradient-drift.medium.com/17-agentic-ai-patterns-9f7fdeb3d604?source=rss-dc182588576c------2)
 - [大型語言模型效率與優化技術深度解析：從模型壓縮到推理加速的全方位指南](https://gradient-drift.medium.com/large-language-model-efficiency-and-optimization-techniques-a-comprehensive-guide-701716cfc81b?source=rss-dc182588576c------2)
 - [上下文工程 &lpar;Context Engineering&rpar; — AI Agent 背後的關鍵技術](https://gradient-drift.medium.com/context-engineering-fbec2c8dc3d4?source=rss-dc182588576c------2)
-- [巨型語言模型的情境工程：A Survey of Context Engineering for Large Language Models](https://gradient-drift.medium.com/a-survey-of-context-engineering-for-large-language-models-ca6a1a652008?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
