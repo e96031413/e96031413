@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [影像與聲音生成的前沿：Autoregressive 與 Flow Matching 兩條世界線的交會](https://gradient-drift.medium.com/from-pixel-rnn-to-flow-matching-heads-the-evolution-of-generative-ai-architectures-36590e91486d?source=rss-dc182588576c------2)
 - [通用模型的終身學習 &lpar;Lifelong Learning of General Models&rpar;](https://gradient-drift.medium.com/lifelong-learning-of-general-models-9f88a200b2ae?source=rss-dc182588576c------2)
 - [Introducing Claude Sonnet 4.5](https://gradient-drift.medium.com/introducing-claude-sonnet-4-5-f352a34bfc13?source=rss-dc182588576c------2)
 - [18種常見的RAG技術](https://gradient-drift.medium.com/introduction-to-advanced-rag-techniques-b82dc5e3e0bd?source=rss-dc182588576c------2)
 - [17 Agentic AI Patterns](https://gradient-drift.medium.com/17-agentic-ai-patterns-9f7fdeb3d604?source=rss-dc182588576c------2)
-- [大型語言模型效率與優化技術深度解析：從模型壓縮到推理加速的全方位指南](https://gradient-drift.medium.com/large-language-model-efficiency-and-optimization-techniques-a-comprehensive-guide-701716cfc81b?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
