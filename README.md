@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [想要無人值守的 AI Agent？先學會把爆炸半徑縮小](https://gradient-drift.medium.com/want-unsupervised-ai-agents-first-shrink-the-blast-radius-a5705cc9248a?source=rss-dc182588576c------2)
 - [LTX-2：高效「文字→影音同步生成」的開源基礎模型](https://gradient-drift.medium.com/introduction-to-ltx-2-a14c80b8e42c?source=rss-dc182588576c------2)
 - [Agent互操作協議與流式交互：MCP / A2A / AG‑UI / ACP / ANP / MCP‑UI / A2UI](https://gradient-drift.medium.com/mcp-a2a-ag-ui-acp-anp-mcp-ui-a2ui-de8602156a6f?source=rss-dc182588576c------2)
 - [AI Agents 演進：從脆弱的迴圈 &lpar;1.0&rpar; 到穩健的系統 &lpar;2.0 Deep Agents&rpar;](https://gradient-drift.medium.com/introduction-to-ai-agents-2-0-deep-agents-62154f5d1bbe?source=rss-dc182588576c------2)
 - [影像與聲音生成的前沿：Autoregressive 與 Flow Matching 兩條世界線的交會](https://gradient-drift.medium.com/from-pixel-rnn-to-flow-matching-heads-the-evolution-of-generative-ai-architectures-36590e91486d?source=rss-dc182588576c------2)
-- [通用模型的終身學習 &lpar;Lifelong Learning of General Models&rpar;](https://gradient-drift.medium.com/lifelong-learning-of-general-models-9f88a200b2ae?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
