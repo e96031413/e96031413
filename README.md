@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [在 6GB 舊顯卡 &lpar;RTX 2060&rpar; 上極限調校 Qwen 3.6 35B A3B：從 9 tok/s 到 30 tok/s 的實戰記錄](https://gradient-drift.medium.com/optimizing-qwen-3-6-35b-a3b-on-a-6gb-rtx-2060-a-practical-guide-from-9-to-30-tok-s-c78cb29c84d9?source=rss-dc182588576c------2)
 - [如何把Apple手機拍照得到的HEIC格式圖片轉換成PNG格式？](https://gradient-drift.medium.com/convert-heic-to-png-with-python-e6979e1ab82c?source=rss-dc182588576c------2)
 - [如何設定ollama啟動模型時使用的context length?](https://gradient-drift.medium.com/how-to-set-default-context-length-for-llm-in-ollama-4667ede658ee?source=rss-dc182588576c------2)
 - [理解Proxy和Reverse Proxy](https://gradient-drift.medium.com/understand-proxy-and-reverse-proxy-771445e033e5?source=rss-dc182588576c------2)
 - [OpenClaw：震撼網路的病毒式 AI Agent](https://gradient-drift.medium.com/openclaw-the-viral-ai-agent-that-broke-the-internet-peter-steinberger-lex-fridman-podcast-491-cc0d874855dc?source=rss-dc182588576c------2)
-- [想要無人值守的 AI Agent？先學會把爆炸半徑縮小](https://gradient-drift.medium.com/want-unsupervised-ai-agents-first-shrink-the-blast-radius-a5705cc9248a?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
