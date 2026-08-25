@@ -7,11 +7,11 @@
 <h3 align="left">My Latest Article</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [誰說 6GB 顯卡不能玩 12.9B 大模型？RTX 2060 本地暢跑 Krea 2 Turbo 的極限調校與量化實戰](https://gradient-drift.medium.com/rtx-2060-strikes-back-12-9b-ai-image-generation-on-6gb-vram-5064851afb62?source=rss-dc182588576c------2)
+- [AI Systems 全解析：從硬體到模型、訓練到推論，一手掌握底層邏輯與系統設計](https://gradient-drift.medium.com/a-comprehensive-guide-to-ai-systems-from-hardware-to-models-training-to-inference-1d818508478a?source=rss-dc182588576c------2)
 - [在 6GB 舊顯卡 &lpar;RTX 2060&rpar; 上極限調校 Qwen 3.6 35B A3B：從 9 tok/s 到 30 tok/s 的實戰記錄](https://gradient-drift.medium.com/optimizing-qwen-3-6-35b-a3b-on-a-6gb-rtx-2060-a-practical-guide-from-9-to-30-tok-s-c78cb29c84d9?source=rss-dc182588576c------2)
 - [如何把Apple手機拍照得到的HEIC格式圖片轉換成PNG格式？](https://gradient-drift.medium.com/convert-heic-to-png-with-python-e6979e1ab82c?source=rss-dc182588576c------2)
 - [如何設定ollama啟動模型時使用的context length?](https://gradient-drift.medium.com/how-to-set-default-context-length-for-llm-in-ollama-4667ede658ee?source=rss-dc182588576c------2)
-- [理解Proxy和Reverse Proxy](https://gradient-drift.medium.com/understand-proxy-and-reverse-proxy-771445e033e5?source=rss-dc182588576c------2)
-- [OpenClaw：震撼網路的病毒式 AI Agent](https://gradient-drift.medium.com/openclaw-the-viral-ai-agent-that-broke-the-internet-peter-steinberger-lex-fridman-podcast-491-cc0d874855dc?source=rss-dc182588576c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
